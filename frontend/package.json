@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "system": {
     "version": "3.0.0",
-    "name": "Press Ticket",
+    "name": "ZVChat",
     "url": "https://pressticket.com.br"
   },
   "private": true,
